@@ -85,7 +85,7 @@ def main() -> None:
     print("QBoosted model accuracy: ", acc_test_qboost)
     
     """
-    # 
+    # for submission ###########################################################
     test_data_path = join(root_dir, "data/test.csv")
     test_csv = pd.read_csv(test_data_path)
     
