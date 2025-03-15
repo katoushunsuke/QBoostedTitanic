@@ -1,5 +1,6 @@
 # QBoostedTitanic
 apply QBoost to "titanic" (Kaggle competition)
+[docs](https://zenn.dev/shun0425/articles/cc2fb66d877bde)
 
 ## Getting Started
 
